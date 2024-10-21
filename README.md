@@ -1,6 +1,6 @@
 # Pokédex Web App🧑‍💻✨
 
-![Pokedex Screenshot](./pokedex/Pokedex.png)
+![Pokedex Screenshot](./Pokedex.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
